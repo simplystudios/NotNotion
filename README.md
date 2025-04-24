@@ -1,5 +1,6 @@
 <h1 align="center">
-<img src="https://github.com/user-attachments/assets/56f7ca2b-0d21-4a22-a756-5e75ec4074cc" height="300px">
+<img src="https://github.com/user-attachments/assets/dfac7c22-93fc-4267-b151-12e97b72721a" height="300px">
+
 <!-- <img src="https://github.com/user-attachments/assets/caab5fcd-96f4-4844-827a-527619b0d733" height="300px"> -->
 </h1>
 <p align="center">A Notion-like text editor... but without the fancy features. Just a Minimal Markdown Editor on the Web to store notes, research, or just your thoughts while browsing.
