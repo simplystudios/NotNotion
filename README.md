@@ -3,6 +3,17 @@
 
 <!-- <img src="https://github.com/user-attachments/assets/caab5fcd-96f4-4844-827a-527619b0d733" height="300px"> -->
 </h1>
+<p align="center";">
+<a href="https://wakatime.com/badge/user/f983c5d0-c6d8-471e-a499-43763ad1d6b4/project/799f33da-fbc2-4cce-9bdf-232e617fee96"><img src="https://wakatime.com/badge/user/f983c5d0-c6d8-471e-a499-43763ad1d6b4/project/799f33da-fbc2-4cce-9bdf-232e617fee96.svg" alt="wakatime"></a>
+  
+<img alt="GitHub License" src="https://img.shields.io/github/license/simplystudios/notnotion">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simplystudios/notnotion">
+
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/simplystudios/notnotion?style=flat">
+
+
+
 <p align="center">A Notion-like text editor... but without the fancy features. Just a Minimal Markdown Editor on the Web to store notes, research, or just your thoughts while browsing.
 </p>
 
